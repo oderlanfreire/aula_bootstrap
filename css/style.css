@@ -1,0 +1,44 @@
+.navbar
+{
+    background-color: #7575FF ;
+}
+
+h3
+{
+    text-transform: uppercase;
+}
+
+#icon
+{
+    border-radius: 50%;
+    width: 250px; 
+    height: 80px;
+}
+
+.quem-somos
+{
+    background-color:lightcoral;
+    color: white;
+}
+
+.margin
+{
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+#img-team
+{
+    margin-bottom: 10px;
+}
+
+.parceiros
+{
+    background-color:darkseagreen;
+    color: white;
+}
+
+.backg-footer
+{
+    background-color: #fffafa;
+    color: black;
+}
